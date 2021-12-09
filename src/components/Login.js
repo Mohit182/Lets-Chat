@@ -1,6 +1,6 @@
 import React from "react";
 import "firebase/app";
-import { auth } from "firebase";
+import { auth } from "./Firebase";
 import { GoogleOutlined, FacebookOutlined } from "@ant-design/icons";
 import firebase from "firebase/app";
 const Login = () => {
